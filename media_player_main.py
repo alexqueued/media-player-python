@@ -1,3 +1,15 @@
+"""
+VLC Media Player (PySide6 + VLC)
+
+A simple media player built with **Python, PySide6, and VLC** that allows users to play, pause, stop, and adjust volume for audio and video files.
+
+Features
+- Play, pause, and stop media files
+- Adjust volume using a slider
+- Seek through media playback with a position slider
+- Supports popular formats like **MP3, MP4, AVI, MKV, etc.** using VLC
+
+"""
 import os
 import sys
 # print(sys.path)
